@@ -29,7 +29,8 @@
   "homepage": "https://github.com/FeedHive/twitter-api-client#readme",
   "dependencies": {
     "oauth": "^0.9.15",
-    "object-sizeof": "^1.6.1"
+    "object-sizeof": "^1.6.1",
+    "twitter-api-client": "^1.6.1"
   },
   "devDependencies": {
     "@apidevtools/json-schema-ref-parser": "^9.0.6",
